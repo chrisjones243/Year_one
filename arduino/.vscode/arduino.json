@@ -1,0 +1,5 @@
+{
+    "sketch": "whackAMole.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem213301"
+}
